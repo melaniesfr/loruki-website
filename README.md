@@ -2,6 +2,6 @@
 
 Fake cloud hosting website.
 
-> [Live Preview](https://pensive-wright-c334aa.netlify.app)
+> [Live Preview](https://loruki-website-melaniesfr.netlify.app)
 
 > Credits: Traversy Media
